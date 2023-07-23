@@ -99,6 +99,7 @@ functions:
 
 ### Blackfire installation
 
+
 The Blackfire layer only have the probe installed.
 
 You still need to install the agent.
